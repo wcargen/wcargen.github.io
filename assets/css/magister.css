@@ -158,6 +158,12 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	margin-bottom:75px;
 }
 
+.about {
+	display: block;
+	margin:0 auto;
+	max-width: 600px;
+}
+
 @media (max-width: 767px) {
 	.lead {
 		font-size:1.3em;
